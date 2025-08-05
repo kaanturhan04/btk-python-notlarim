@@ -1,29 +1,32 @@
-# btk-python-notlarim
-Notes and small exercises from BTK Academy's Python programming course.
 # 🐍 BTK Python Notlarım
 
-Bu repo, [BTK Akademi](https://www.btkakademi.gov.tr) üzerinden aldığım "Sıfırdan İleri Seviye Python Programlama" eğitimi sürecindeki tüm notları, örnekleri ve mini projeleri içermektedir.
+Bu repo, [BTK Akademi](https://www.btkakademi.gov.tr) üzerinden takip ettiğim "Sıfırdan İleri Seviye Python Programlama" eğitimi boyunca öğrendiğim konuları derleyip uyguladığım kişisel notları içermektedir.
 
-## 📚 İçerikler
+## 🎯 Amaç
+Python öğrenme sürecimi pekiştirmek, temel konular üzerinde tekrar yapmak ve öğrendiklerimi GitHub üzerinden açık şekilde belgelemek.
 
-- Python Temelleri
-- Veri Tipleri ve Operatörler
-- Koşullu İfadeler
-- Döngüler
-- Fonksiyonlar
-- Listeler, Demetler, Sözlükler
-- Dosya İşlemleri
-- Hata Yakalama
-- Modüller
-- Proje Çalışmaları (mini uygulamalar)
+## 🧠 İçerik Başlıkları
+- Python Temelleri  
+- Değişkenler  
+- Veri Tipleri  
+- Listeler ve Döngüler  
+- Koşullu İfadeler  
+- Fonksiyonlar (yakında)  
+- Dosya İşlemleri (yakında)
 
-## 📌 Not
-Bu notlar öğrenme sürecimi belgelemek ve paylaşmak amacıyla oluşturulmuştur. Herkesin faydalanabileceği açık bir kaynak olması hedeflenmiştir.
+## 🗃️ Dosya Listesi
+- `hello_world.py` – Merhaba dünya dosyası
+- `degiskenler.py` – Sayılar, metinler ve boolean türleriyle değişken kullanımı
+- `listeler_ve_donguler.py` – Liste işlemleri ve `for` döngüsü örnekleri
 
-## 👨‍💻 Hazırlayan
-**Kaan Turhan**  
-[Yönetim Bilişim Sistemleri Öğrencisi](https://www.linkedin.com/in/kaanturhan04)  
-2025
+## 🔜 Yakında Eklenecekler
+- `kosullar.py`  
+- `fonksiyonlar.py`  
+- Basit veri analizi örnekleri (`pandas` ile)
 
 ---
 
+🛠 Hazırlayan: **Kaan Turhan**  
+🎓 Yönetim Bilişim Sistemleri Öğrencisi  
+📍 İstanbul, Türkiye  
+🌐 [LinkedIn Profilim](https://www.linkedin.com/in/kaanturhan04)
