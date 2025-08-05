@@ -20,10 +20,10 @@ Python öğrenme sürecimi pekiştirmek, temel konular üzerinde tekrar yapmak v
 - `kosullar.py` – if/else, sıcaklık ve yaş kontrolü gibi koşul yapıları  
 - `fonksiyonlar.py` – Fonksiyon tanımlama, parametre, return kullanımı
 
-## 🔜 Yakında Eklenecekler
-- `kosullar.py`  
-- `fonksiyonlar.py`  
-- Basit veri analizi örnekleri (`pandas` ile)
+🔜 Yakında Eklenecekler
+
+• Basit veri analizi örnekleri (`pandas` ile)
+
 
 ---
 
