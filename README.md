@@ -11,13 +11,14 @@ Python öğrenme sürecimi pekiştirmek, temel konular üzerinde tekrar yapmak v
 - Veri Tipleri  
 - Listeler ve Döngüler  
 - Koşullu İfadeler  
-- Fonksiyonlar (yakında)  
-- Dosya İşlemleri (yakında)
+- Fonksiyonlar
 
 ## 🗃️ Dosya Listesi
-- `hello_world.py` – Merhaba dünya dosyası
-- `degiskenler.py` – Sayılar, metinler ve boolean türleriyle değişken kullanımı
-- `listeler_ve_donguler.py` – Liste işlemleri ve `for` döngüsü örnekleri
+- `hello_world.py` – Merhaba dünya dosyası  
+- `degiskenler.py` – Sayılar, metinler ve boolean türleriyle değişken kullanımı  
+- `listeler_ve_donguler.py` – Liste işlemleri ve `for` döngüsü örnekleri  
+- `kosullar.py` – if/else, sıcaklık ve yaş kontrolü gibi koşul yapıları  
+- `fonksiyonlar.py` – Fonksiyon tanımlama, parametre, return kullanımı
 
 ## 🔜 Yakında Eklenecekler
 - `kosullar.py`  
