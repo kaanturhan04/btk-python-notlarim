@@ -30,4 +30,4 @@ Python öğrenme sürecimi pekiştirmek, temel konular üzerinde tekrar yapmak v
 🛠 Hazırlayan: **Kaan Turhan**  
 🎓 Yönetim Bilişim Sistemleri Öğrencisi  
 📍 İstanbul, Türkiye  
-🌐 [LinkedIn Profilim](https://www.linkedin.com/in/kaanturhan04)
+🌐 [LinkedIn](www.linkedin.com/in/kaan-turhan-493b50246)
